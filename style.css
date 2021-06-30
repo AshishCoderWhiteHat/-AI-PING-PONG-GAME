@@ -20,3 +20,10 @@
 
     font-size: 22px;
 }
+
+video {
+
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}

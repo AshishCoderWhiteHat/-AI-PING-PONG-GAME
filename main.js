@@ -47,6 +47,8 @@ function gotPoses() {
 
 function draw(){
 
+  game() 
+
  background(0); 
 
  fill("black");
